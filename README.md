@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=colinxwarner&label=Profile%20views&color=0e75b6&style=flat" alt="colinxwarner" /> </p>
 
-- 🔭 I’m currently working on **Java**
+- 🔭 I’m currently working on **Java, SQL, and C#**
 
 - 🌱 I’m currently learning **Java, Spring, Full stack deployment**
 
@@ -11,13 +11,13 @@
 
 - 🤝 I’m looking for help with **Further experience in backend development**
 
-- 👨‍💻 Most of my projects are available at [https://github.com/colinxwarner](https://github.com/colinxwarner)
+- 👨‍💻 Most of my projects are available at [https://github.com/colinxwarner]
 
 - 📫 How to reach me **colin.x.warner@gmail.com**
 
-- 📄 Know about my experiences [Military Enlisted to Officer, former police officer](Military Enlisted to Officer, former police officer)
+- 📄 Know about my experiences Military Enlisted to Officer, former police officer
 
-- ⚡ Fun fact **My kids give me stickers anytime I develop a new project for them to play on!**
+- ⚡ Fun fact **My kids give me stickers anytime I develop a new project for them to play with!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
