@@ -1,3 +1,5 @@
+
+![Marine Corps Flag header](IMG/USMC-header.jpg "Semper Fidelis")
 <h1 align="center">Hi 👋, I'm Colin</h1>
 <h3 align="center">A junior full stack web developer and Marine Corps Veteran.</h3>
 
