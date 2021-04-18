@@ -21,6 +21,15 @@
 
 - ⚡ Fun fact **My kids give me stickers anytime I develop a new project for them to play with!**
 
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/colinxwarner/colinxwarner">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=colinxwarner&hide=tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/colinxwarner/colinxwarner">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=colinxwarner&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Colin's GitHub Stats" />
+</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/colin-warner" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="colin-warner" height="30" width="40" /></a>
